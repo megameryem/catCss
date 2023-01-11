@@ -1,0 +1,46 @@
+/* style="list-style-type: disc; */
+body{
+    background-color: #F3F1F5;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet Ms' ;
+    line-height: 1.5;
+    text-align: center;
+    list-style-position: inside;
+    
+
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.sabit-div{
+    background-color: #b3a2db; 
+    list-style-type: none;
+}
+
+#sabit, #menu{
+    color: black;
+    text-align: center;
+    list-style-type: none;
+    
+    
+}
+.baslik-buyuk{
+    color: #221f83;
+}
+.baslik-orta{
+    color: #383785;
+}
+.baslik-kucuk{
+    color: #505070;
+}
+
+#photo{
+    height: 300px;
+    width: 300px;
+}
